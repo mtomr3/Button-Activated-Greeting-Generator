@@ -4,5 +4,13 @@
   "user_id": "7f6af617-1a41-41ca-b739-7d6fcd2c2e70",
   "created_at": "2025-10-02T15:57:49.525317+00:00",
   "updated_at": "2025-10-02T15:57:49.525326+00:00",
-  "status": "ready"
+  "status": "ready",
+  "github": {
+    "repository_url": "https://github.com/mtomr3/Button-Activated-Greeting-Generator",
+    "repository_name": "Button-Activated-Greeting-Generator",
+    "owner": "mtomr3",
+    "created_at": "2025-10-03T00:43:24Z",
+    "last_commit_sha": "218360f7a3744702d4de2579719b9c7f77f8ebe9",
+    "published_at": "2025-10-03T00:43:28.951669+00:00"
+  }
 }
